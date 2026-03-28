@@ -1,0 +1,14 @@
+{
+  "version": "1.0",
+  "createdAt": "2026-03-28T04:20:30.427Z",
+  "totalSize": 7640071,
+  "chunkSize": 52428800,
+  "chunks": [
+    {
+      "filename": "part_000.zip",
+      "size": 7640071,
+      "sha": "e767e3df00773bb8d6778da0d84c742f505e068d"
+    }
+  ],
+  "checksum": "171c007e9619425f95da852a7a2db0b31a8f9aa0b69bc36c6013c4ca237cf0b2"
+}
